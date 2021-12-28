@@ -1,1 +1,2 @@
 File ini hanya untuk coba fitur branch2, anda bebas edit dan tambah baris sesuka anda.
+    * Saya mencoba menambahkan satu baris untuk file branch2 ini.
